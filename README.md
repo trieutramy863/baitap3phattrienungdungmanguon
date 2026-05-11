@@ -68,7 +68,16 @@ http://localhost:8081
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c57991e6-cae9-4279-b135-b2e140eaecfd" /> 
 
-Public website bằng Cloudflare Tunnel
+# Public website bằng Cloudflare Tunnel
+<img width="949" height="681" alt="Screenshot 2026-05-11 104912" src="https://github.com/user-attachments/assets/df9272a9-66bf-4f2d-a0be-c26b16f4c813" /> 
+
+<img width="744" height="712" alt="Screenshot 2026-05-11 105052" src="https://github.com/user-attachments/assets/fd147899-0e11-483e-bc4e-870f8497265b" />
+
+<img width="933" height="1054" alt="Screenshot 2026-05-11 105151" src="https://github.com/user-attachments/assets/61420a44-71d0-497a-9987-21347e8558f3" />
+#  Public website thành công
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/2ecd1b8e-770f-4d0d-83e3-493a36250344" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/f930ec81-acbf-4210-9005-608fea75e87f" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/f5c46b9d-d20d-4af9-b576-b0cd9c5543f0" />
 
 
 
