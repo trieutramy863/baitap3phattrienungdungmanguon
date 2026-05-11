@@ -44,3 +44,28 @@ nano docker-compose.yml
 -Chạy hệ thống
 Khởi động containers
 sudo docker-compose up -d
+<img width="1639" height="325" alt="image" src="https://github.com/user-attachments/assets/7ed0da80-5d6e-4503-a2fb-618d8a4589a1" />
+- 
+4. Mở trình duyệt
+WordPress
+http://localhost:8080
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/06754a96-fe8e-4633-bcf3-26af2db7de88" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5428fcd4-1b67-4943-8734-8c6ba991d586" />
+
+phpMyAdmin
+http://localhost:8081
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d905c338-6266-4e6f-b38d-21cdd6244b7a" />
+# Tạo bài viết trong wodpress
+1. giới thiệu bản thân 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/46831e80-bfae-4ca3-afd7-46b0b785ee5a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b67a4a1c-16f0-4f10-a4ba-9a25fc44db69" />
+2. giới thiệu về ngành học mà em yêu thích trong trường tnut
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc87220f-e473-4951-a66d-79c4507d7222" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c57991e6-cae9-4279-b135-b2e140eaecfd" /> 
+
+
