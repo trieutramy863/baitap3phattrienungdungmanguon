@@ -78,8 +78,9 @@ http://localhost:8081
 <img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/2ecd1b8e-770f-4d0d-83e3-493a36250344" />
 <img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/f930ec81-acbf-4210-9005-608fea75e87f" />
 <img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/f5c46b9d-d20d-4af9-b576-b0cd9c5543f0" />
-Nhận xét việc sử dụng mã nguồn mở wordpress để tạo website (tốn công sức thế nào, dễ/khó dùng ra sao, tốn kém tài nguyên(ssh/ram) của máy chủ ra sao,....)
-# WordPress là một mã nguồn mở mạnh và phổ biến giúp tạo website nhanh chóng mà không cần lập trình quá nhiều. Khi kết hợp với Docker Compose, việc triển khai WordPress trở nên thuận tiện hơn vì có thể quản lý MariaDB, PhpMyAdmin và WordPress bằng container.
+
+
+# Nhận xét việc sử dụng mã nguồn mở wordpress để tạo website (tốn công sức thế nào, dễ/khó dùng ra sao, tốn kém tài nguyên(ssh/ram) của máy chủ ra sao,....) WordPress là một mã nguồn mở mạnh và phổ biến giúp tạo website nhanh chóng mà không cần lập trình quá nhiều. Khi kết hợp với Docker Compose, việc triển khai WordPress trở nên thuận tiện hơn vì có thể quản lý MariaDB, PhpMyAdmin và WordPress bằng container.
 
 Ưu điểm:
 
